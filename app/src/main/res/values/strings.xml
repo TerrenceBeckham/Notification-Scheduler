@@ -8,4 +8,7 @@
     <string name="wifi">Wifi</string>
     <string name="schedule_job">Schedule Job</string>
     <string name="cancel_jobs">Cancel Jobs</string>
+    <string name="job_has_been_scheduled">Job Scheduled, job will run when</string>
+    <string name="when_the_contraints_are_met">The constraints are met.</string>
+    <string name="all_jobs_cancelled">Jobs cancelled</string>
 </resources>
